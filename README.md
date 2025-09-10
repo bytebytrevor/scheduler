@@ -4,9 +4,9 @@ Scheduler
 
 A Task Scheduler and Reminder application with reminders and notifications for important events and deadlines.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZUQyqQFpF-s)
 
 # Development Environment
 
@@ -16,6 +16,5 @@ C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- [Learn Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/console-teleprompter)
+- [Dotnet Microsoft](https://dotnet.microsoft.com/en-us/learn)
